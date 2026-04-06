@@ -1,11 +1,14 @@
 <h2 align="center">👋 Hey, I'm Mehran Khan</h2>
 <p align="center">
-  👁️‍🗨️ 
-  <img src="https://komarev.com/ghpvc/?username=Mehran12121&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" height="45"/>
-</p>
+
+  
+  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mehran12121/Mehran12121/main/assets/mehran-waving.png" width="220"/>
+</p>
+👁️‍🗨️ 
+  <img src="https://komarev.com/ghpvc/?username=Mehran12121&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" height="45"/>
 </p>
 
 ## 🌐 Socials:
