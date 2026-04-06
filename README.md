@@ -32,6 +32,14 @@
   <img src="https://streak-stats.demolab.com?user=Mehran12121&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Building+FastCounter;Bioinformatics+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mehran12121&label=Visitors&color=00f7ff&style=for-the-badge" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mehran12121&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
